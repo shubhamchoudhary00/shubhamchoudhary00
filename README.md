@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchoudharyy" alt="shubhamchoudharyy" /></a> </p>
 
-- 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudharyy/CampusSeek)
+- My previous Id has been deactivated this is my new Id (https://github.com/shubhamchoudharyy)
+- 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudhary00/campusSeek)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamchoudharyy?tab=repositories](https://github.com/shubhamchoudharyy?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamchoudhary00?tab=repositories](https://github.com/shubhamchoudhary00?tab=repositories)
 
 - 📫 How to reach me **shubhamchoudhary0071@gmail.com**
 
