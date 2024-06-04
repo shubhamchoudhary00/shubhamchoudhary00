@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchoudharyy" alt="shubhamchoudharyy" /></a> </p>
 
-- My previous Id has been deactivated this is my new Id (https://github.com/shubhamchoudharyy)
+
 - 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudhary00/campusSeek)
 
 - 🌱 I’m currently learning **Spring Boot**
