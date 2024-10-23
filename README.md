@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamchoudharyy" alt="shubhamchoudharyy" /></a> </p>
 
 
-- 🔭 I’m currently working on [Campus Seek](https://github.com/shubhamchoudhary00/campusSeek)
+- 🔭 I’m currently working on [Courier-ms](https://github.com/shubhamchoudhary00/courier-ms)
 
 - 🌱 I’m currently learning **Spring Boot**
 
